@@ -1,0 +1,7 @@
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\obj\Debug\Zadanie_14.csprojResolveAssemblyReference.cache
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\obj\Debug\Zadanie_14.Properties.Resources.resources
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\obj\Debug\Zadanie_14.csproj.GenerateResource.Cache
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\bin\Debug\Zadanie_14.exe
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\bin\Debug\Zadanie_14.pdb
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\obj\Debug\Zadanie_14.exe
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_14\Zadanie_14\obj\Debug\Zadanie_14.pdb
